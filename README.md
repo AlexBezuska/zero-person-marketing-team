@@ -24,7 +24,7 @@ Currently does:
 
 	**or** Download the zip of the project [Zero Person Marketing Team Zip](https://github.com/AlexBezuska/zero-person-marketing-team/archive/master.zip) (git not required)
 - Install dependencies
-	- In your terminal, inside the folder for this project run `npm install`, this will download all the projects required packages from NPM (Node Package Manager)
+	- In your terminal, inside the folder for this project run `npm install`, this will download all this project's required packages from NPM (Node Package Manager)
 
 
 ## How to use
