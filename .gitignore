@@ -4,3 +4,4 @@ templates/
 !templates/sample*
 
 tweet.json
+tweets.txt
