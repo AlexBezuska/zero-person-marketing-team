@@ -1,0 +1,33 @@
+{
+  "name": "zero-person-marketing-team",
+  "version": "0.0.0",
+  "description": "A tool for asiting with marketing for small creative brands",
+  "main": "index.js",
+  "dependencies": {
+    "fisher-yates": "^1.0.3",
+    "handlebars": "^4.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tweets": "node generate-tweets.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexBezuska/zero-person-marketing-team.git"
+  },
+  "keywords": [
+    "marketing",
+    "node",
+    "npm",
+    "javascript",
+    "gamedev",
+    "social",
+    "media"
+  ],
+  "author": "Alex Bezuska (abezuska@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexBezuska/zero-person-marketing-team/issues"
+  },
+  "homepage": "https://github.com/AlexBezuska/zero-person-marketing-team#readme"
+}

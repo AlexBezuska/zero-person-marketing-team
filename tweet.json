@@ -1,0 +1,19 @@
+{
+  "templates": [
+    "tweet1.hbs"
+  ],
+  "data": {
+    "minutes": 1,
+    "seconds": 49,
+    "youtubeLink": "https://youtu.be/i-U451OOOtQ",
+    "forceHashtag": "#gamedev",
+    "hashtagTotal": 3,
+    "hashtags": [
+      "gamedev",
+      "indiedev",
+      "madewithunity",
+      "unity3d",
+      "indiegamedev"
+    ]
+  }
+}
