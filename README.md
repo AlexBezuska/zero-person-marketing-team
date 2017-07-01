@@ -22,7 +22,7 @@ Currently does:
 
 - In your terminal clone this github repo `git clone git@github.com:AlexBezuska/zero-person-marketing-team.git` (git required)
 
-	**or** Download the zip of the project [Backupstagram Zip](https://github.com/AlexBezuska/zero-person-marketing-team/archive/master.zip) (git not required)
+	**or** Download the zip of the project [Zero Person Marketing Team Zip](https://github.com/AlexBezuska/zero-person-marketing-team/archive/master.zip) (git not required)
 - Install dependencies
 	- In your terminal, inside the folder for this project run `npm install`, this will download all the projects required packages from NPM (Node Package Manager)
 
