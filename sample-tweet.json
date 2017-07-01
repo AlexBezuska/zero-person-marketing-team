@@ -1,0 +1,19 @@
+{
+  "templates": [
+    "sample-tweet.hbs",
+    "sample-tweet-2.hbs",
+    "sample-tweet-3.hbs"
+  ],
+  "data": {
+    "thing": "Tweet",
+    "tool": "Zero Person Marketing team",
+    "hashtagTotal": 3,
+    "hashtags": [
+      "#amaze",
+      "#wow",
+      "#oh",
+      "#woo",
+      "#good"
+    ]
+  }
+}

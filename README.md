@@ -28,7 +28,7 @@ Currently does:
 
 
 ## How to use
-
+- duplicate `sample-tweet.json` and call it `tweet.json`
 - add some data inside of `tweet.json` for the set of tweets you want to create
 - edit the file `templates/sample-tweet.hbs` to create a tweet, duplicate it to create more tweets (be sure to add the filenames to the `templates` array in `tweet.json`)
 
